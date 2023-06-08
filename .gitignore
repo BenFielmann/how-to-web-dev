@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# untracked data
+img/jpg/Seminar Grundlagen SQL Teil 2 Aufgaben Lösung.pdf
