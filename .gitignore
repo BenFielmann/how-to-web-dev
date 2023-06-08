@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# untracked data
+img/jpg/Seminar Grundlagen SQL Teil 2 Aufgaben Lösung.pdf
+img/jpg/Complete Roadmap of Front end Web Development in 2022.url
